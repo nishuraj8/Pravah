@@ -1,4 +1,4 @@
 # Pravah
 This is my first repository. 
 <br>
-Author- Nishu 
+Author- Nishu Raj
